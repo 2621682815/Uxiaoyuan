@@ -8,7 +8,7 @@
 [油猴 • 首页](https://www.tampermonkey.net/)(<—点击)
 
 点击下载
-<img src="img/img01.png">
+<img src="img/img01.png" alt="空">
 ![](img/img01.png)
 
 
